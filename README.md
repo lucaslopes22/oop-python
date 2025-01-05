@@ -1,6 +1,6 @@
 # Estudo de Programação Orientada a Objetos com Python
 
-Bem-vindo ao meu repositório de estudo! 🎉
+Bem-vindo ao meu repositório de estudo! 🎉  
 Este projeto reflete meu estudo contínuo e aprofundado sobre **Programação Orientada a Objetos (POO)** utilizando a linguagem **Python**. Através dele, estou explorando e aplicando conceitos fundamentais da POO em diversos contextos, buscando dominar essa poderosa metodologia de desenvolvimento de software.
 
 ---
